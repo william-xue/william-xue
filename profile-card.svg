@@ -17,24 +17,24 @@
 <text x="700" y="156" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" fill="#8b949e" letter-spacing="0.9">PUBLIC REPOS</text>
 <text x="28" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" fill="#8b949e" letter-spacing="0.9">MOST USED LANGUAGES</text>
 <g clip-path="url(#bar)">
-<rect x="28.00" y="196" width="684.22" height="9" fill="#f1e05a"/>
-<rect x="712.22" y="196" width="75.05" height="9" fill="#e34c26"/>
-<rect x="787.26" y="196" width="9.87" height="9" fill="#563d7c"/>
-<rect x="797.13" y="196" width="8.28" height="9" fill="#00add8"/>
-<rect x="805.42" y="196" width="6.09" height="9" fill="#8b949e"/>
-<rect x="811.51" y="196" width="20.49" height="9" fill="#8b949e"/>
+<rect x="28.00" y="196" width="672.50" height="9" fill="#f1e05a"/>
+<rect x="700.50" y="196" width="82.57" height="9" fill="#e34c26"/>
+<rect x="783.06" y="196" width="9.62" height="9" fill="#563d7c"/>
+<rect x="792.68" y="196" width="8.60" height="9" fill="#3178c6"/>
+<rect x="801.28" y="196" width="7.93" height="9" fill="#00add8"/>
+<rect x="809.21" y="196" width="22.79" height="9" fill="#8b949e"/>
 </g>
 <circle cx="32.0" cy="228" r="4" fill="#f1e05a"/>
-<text x="41.0" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">JavaScript 85%</text>
+<text x="41.0" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">JavaScript 84%</text>
 <circle cx="150.4" cy="228" r="4" fill="#e34c26"/>
-<text x="159.4" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">HTML 9%</text>
-<circle cx="222.6" cy="228" r="4" fill="#563d7c"/>
-<text x="231.6" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">CSS 1%</text>
-<circle cx="288.2" cy="228" r="4" fill="#00add8"/>
-<text x="297.2" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">Go 1%</text>
-<circle cx="347.2" cy="228" r="4" fill="#8b949e"/>
-<text x="356.2" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">Less 1%</text>
-<circle cx="419.4" cy="228" r="4" fill="#8b949e"/>
-<text x="428.4" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">Other 3%</text>
+<text x="159.4" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">HTML 10%</text>
+<circle cx="229.2" cy="228" r="4" fill="#563d7c"/>
+<text x="238.2" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">CSS 1%</text>
+<circle cx="294.8" cy="228" r="4" fill="#3178c6"/>
+<text x="303.8" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">TypeScript 1%</text>
+<circle cx="406.6" cy="228" r="4" fill="#00add8"/>
+<text x="415.6" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">Go 1%</text>
+<circle cx="465.6" cy="228" r="4" fill="#8b949e"/>
+<text x="474.6" y="232" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial" font-size="11.5" fill="#e6edf3" fill-opacity="0.85">Other 3%</text>
 <text x="28" y="254" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8b949e">featured  selection-drag-engine  ★ 101</text>
 </svg>
