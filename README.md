@@ -25,42 +25,26 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**[selection-drag-engine](https://github.com/william-xue/selection-drag-engine)** · ★101
-
-渲染器无关的框选 + 多拖引擎。rAF 合并、拖拽快照、preview/commit 分离 —— 从 [X6 #4823](https://github.com/antvis/X6/issues/4823) 长出来的实现。
-
-`JavaScript` `rAF` `zero-dep`
-
+<a href="https://github.com/william-xue/selection-drag-engine"><b>selection-drag-engine</b></a> · ★101<br />
+<sub><code>JavaScript</code> · <code>rAF</code> · <code>zero-dep</code></sub>
+<p>渲染器无关的框选 + 多拖引擎：rAF 合并、拖拽快照、preview/commit 分离 —— 从 <a href="https://github.com/antvis/X6/issues/4823">X6 #4823</a> 长出来的实现。</p>
 </td>
 <td width="50%" valign="top">
-
-**[mini-x6-go](https://github.com/william-xue/mini-x6-go)** · course
-
-从零长起来的小型图编辑器 / 元件设计器：纯 ES Module + 原生 SVG，零运行时依赖。适合当源码课看。
-
-`JavaScript` `SVG` `ESM`
-
+<a href="https://github.com/william-xue/mini-x6-go"><b>mini-x6-go</b></a> · 源码课<br />
+<sub><code>JavaScript</code> · <code>SVG</code> · <code>ESM</code></sub>
+<p>从零长起来的小型图编辑器 / 元件设计器：纯 ES Module + 原生 SVG，零运行时依赖。</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**[x6-plugin-port-editor](https://github.com/william-xue/x6-plugin-port-editor)** · plugin
-
-点元件轮廓就地加引脚，落点贴真实 SVG 轮廓（直边 / 孔洞 / 异形 / 多图形拼合）。不改 X6 核心。
-
-`TypeScript` `X6` `plugin`
-
+<a href="https://github.com/william-xue/x6-plugin-port-editor"><b>x6-plugin-port-editor</b></a> · plugin<br />
+<sub><code>TypeScript</code> · <code>X6</code> · <code>plugin</code></sub>
+<p>点元件轮廓就地加引脚，落点贴真实 SVG 轮廓（直边 / 孔洞 / 异形 / 多图形拼合）。不改 X6 核心。</p>
 </td>
 <td width="50%" valign="top">
-
-**[vite-plugin-font-subset](https://github.com/william-xue/vite-plugin-font-subset)** · ★7
-
-按项目实际用到的字符把字体裁成 WOFF2，构建期完成，产物直接瘦身。
-
-`Vite` `WOFF2` `node`
-
+<a href="https://github.com/william-xue/vite-plugin-font-subset"><b>vite-plugin-font-subset</b></a> · ★7<br />
+<sub><code>Vite</code> · <code>WOFF2</code> · <code>node</code></sub>
+<p>按项目实际用到的字符把字体裁成 WOFF2，构建期完成，产物直接瘦身。</p>
 </td>
 </tr>
 </table>
