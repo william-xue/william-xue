@@ -7,6 +7,7 @@
 <br />
 
 **我在造画布应用里最不显眼、也最难写对的那一层：选择、拖拽、吸附。**
+<br />
 <sub>Selection · drag · snapping — the layer everyone feels but nobody sees.</sub>
 
 <br /><br />
@@ -14,7 +15,6 @@
 ![上海·长宁](https://img.shields.io/badge/Shanghai-Changning-3FB950?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white)
 ![blog](https://img.shields.io/badge/blog-fe--fast-3FB950?style=flat-square&labelColor=0d1117&logo=rss&logoColor=white)
 ![followers](https://img.shields.io/github/followers/william-xue?style=flat-square&labelColor=0d1117&color=3FB950&logo=github)
-![stars](https://img.shields.io/badge/stars-1.9k-3FB950?style=flat-square&labelColor=0d1117&logo=github)
 
 </div>
 
@@ -79,20 +79,7 @@
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=william-xue&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=william-xue&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github" alt="stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=william-xue&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-xue&layout=compact&theme=default&hide_border=true&langs_count=8" alt="langs" />
-  </picture>
-</div>
-
-<div align="center">
-
-![streak](https://github-readme-streak-stats.herokuapp.com?user=william-xue&hide_border=true&background=00000000&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)
-
+<img width="90%" src="https://raw.githubusercontent.com/william-xue/william-xue/main/metrics.svg" alt="GitHub metrics" />
 </div>
 
 ### 🐍 提交足迹
