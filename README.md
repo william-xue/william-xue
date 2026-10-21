@@ -79,16 +79,7 @@
 <br />
 
 <div align="center">
-<img width="90%" src="https://raw.githubusercontent.com/william-xue/william-xue/main/metrics.svg" alt="GitHub metrics" />
-</div>
-
-### 🐍 提交足迹
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/william-xue/william-xue/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/william-xue/william-xue/output/github-snake.svg" alt="contribution snake" />
-  </picture>
+<img src="https://raw.githubusercontent.com/william-xue/william-xue/main/profile-card.svg" alt="Cheemi · GitHub profile card" />
 </div>
 
 ---
